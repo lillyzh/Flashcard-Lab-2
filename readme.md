@@ -5,7 +5,7 @@ Flashcard IOS mobile application with multiple choice feature added
 
 ### App Walk-though
 
-<img src=http://recordit.co/QY1T077xDO width=200><br>
+<img src=http://g.recordit.co/QY1T077xDO.gif width=200><br>
 
 
 ## Required
