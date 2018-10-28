@@ -1,7 +1,7 @@
 ## Lab 2
 
 ### App Description
-Flashcard IOS mobile application with multiple choice feature added
+Flashcard mobile application with multiple choice feature added
 
 ### App Walk-though
 
